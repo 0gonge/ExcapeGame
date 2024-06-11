@@ -1,0 +1,17 @@
+.menu-button {
+    justify-content: space-between;
+    border-left-color: rgba(108, 108, 108, 0);
+    border-right-color: rgba(108, 108, 108, 0);
+    border-top-color: rgba(108, 108, 108, 0);
+    border-bottom-color: rgba(108, 108, 108, 0);
+    font-size: 30px;
+    -unity-font-style: bold;
+    -unity-text-align: middle-left;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.menu-button:hover {
+    font-size: 30px;
+    rotate: -10deg;
+    transition-duration: 0.2s;
+}
